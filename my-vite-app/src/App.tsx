@@ -85,7 +85,7 @@ export default App;
 // ################## zadanie 3
 
 import { useState } from "react";
-import "./App.css";
+// import "./App.css";
 
 const App = () => {
 	const [tasks, setTasks] = useState<
